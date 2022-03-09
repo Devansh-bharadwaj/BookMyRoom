@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/BookMyRoom/static/css/main.f2f5a8fe.chunk.css",
+    "main.js": "/BookMyRoom/static/js/main.a35d738d.chunk.js",
+    "main.js.map": "/BookMyRoom/static/js/main.a35d738d.chunk.js.map",
+    "runtime-main.js": "/BookMyRoom/static/js/runtime-main.63d8d56e.js",
+    "runtime-main.js.map": "/BookMyRoom/static/js/runtime-main.63d8d56e.js.map",
+    "static/js/2.aaaab038.chunk.js": "/BookMyRoom/static/js/2.aaaab038.chunk.js",
+    "static/js/2.aaaab038.chunk.js.map": "/BookMyRoom/static/js/2.aaaab038.chunk.js.map",
+    "static/js/3.2ce24e48.chunk.js": "/BookMyRoom/static/js/3.2ce24e48.chunk.js",
+    "static/js/3.2ce24e48.chunk.js.map": "/BookMyRoom/static/js/3.2ce24e48.chunk.js.map",
+    "index.html": "/BookMyRoom/index.html",
+    "precache-manifest.cadd0a4f0a65fe497b3cba367488b37a.js": "/BookMyRoom/precache-manifest.cadd0a4f0a65fe497b3cba367488b37a.js",
+    "service-worker.js": "/BookMyRoom/service-worker.js",
+    "static/css/main.f2f5a8fe.chunk.css.map": "/BookMyRoom/static/css/main.f2f5a8fe.chunk.css.map",
+    "static/js/2.aaaab038.chunk.js.LICENSE.txt": "/BookMyRoom/static/js/2.aaaab038.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63d8d56e.js",
+    "static/js/2.aaaab038.chunk.js",
+    "static/css/main.f2f5a8fe.chunk.css",
+    "static/js/main.a35d738d.chunk.js"
+  ]
+}
